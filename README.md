@@ -2,6 +2,7 @@
 
 FrontEnd React
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/redes_sociais)](https://twitter.com/felipefialho_)
 <!--
 **rcapdepaula/rcapdepaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
