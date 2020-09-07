@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-FrontEnd React learner.
+FrontEnd React and Gatsby learner.
 
 Pioneer in boosting and establishing brands in the digital environment.
 
