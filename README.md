@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-FrontEnd React and Gatsby learner.
+Apaixonado por React e toda a mágica do Gatsby.
 
-Pioneer in boosting and establishing brands in the digital environment.
+Pioneiro em impulsionar e estabelecer marcas no ambiente digital.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/redes_sociais)](https://twitter.com/redes_sociais) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardodepaula/)](https://www.linkedin.com/in/ricardodepaula/)
 
