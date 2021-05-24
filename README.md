@@ -1,4 +1,4 @@
-### Oi : 🤔
+### Oi : 😄
 
 ## Sou apaixonado pela Mágica do React.
 
