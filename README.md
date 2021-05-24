@@ -6,8 +6,8 @@
 
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 
-[Site Gatsby](https://awesome-joliot-d12da0.netlify.app/)
-[Movie DB](https://nifty-varahamihira-f9da4d.netlify.app/)
+- [Site Gatsby](https://awesome-joliot-d12da0.netlify.app/)
+- [Movie DB](https://nifty-varahamihira-f9da4d.netlify.app/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/redes_sociais)](https://twitter.com/redes_sociais) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardodepaula/)](https://www.linkedin.com/in/ricardodepaula/)
 
