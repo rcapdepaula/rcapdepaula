@@ -2,7 +2,7 @@
 
 ## Sou apaixonado pela Mágica do React.
 
-# Desenvoolvedor Front End Junior.
+# Desenvolvedor Front End Junior.
 
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 
