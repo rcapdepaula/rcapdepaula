@@ -1,6 +1,6 @@
 ### Oi!  😄
 
-## Sou apaixonado pela Mágica do React.
+## Sou apaixonado pela mágica do React e os feitiços do Styled Components.
 
 # Desenvolvedor Front End Junior.
 
