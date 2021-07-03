@@ -6,8 +6,13 @@
 
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 
+# Projetos
+
 - [Site PWA React / Gatsby (Wordpress como CMS)](https://awesome-joliot-d12da0.netlify.app/)
 - [Movie App (React)](https://nifty-varahamihira-f9da4d.netlify.app/)
+
+# Componentes
+[Auto Slider](https://heuristic-euler-8925b9.netlify.app/) 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/redes_sociais)](https://twitter.com/redes_sociais) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardodepaula/)](https://www.linkedin.com/in/ricardodepaula/)
 
