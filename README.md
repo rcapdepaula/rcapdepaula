@@ -12,7 +12,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 - [Movie App (React)](https://nifty-varahamihira-f9da4d.netlify.app/)
 
 # Componentes
-[Auto Slider](https://heuristic-euler-8925b9.netlify.app/) 
+[Auto Slider  React & Styled Components](https://heuristic-euler-8925b9.netlify.app/) 
 
 ## Minhas Redes Sociais
 
