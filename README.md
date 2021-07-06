@@ -8,14 +8,14 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 
 # Projetos
 
-- [Site PWA React / Gatsby (Wordpress como CMS)](https://awesome-joliot-d12da0.netlify.app/) ✨
-- [Movie App (React & Styled Components)](https://nifty-varahamihira-f9da4d.netlify.app/) ✨
+- [Site PWA React / Gatsby (Wordpress como CMS)](https://awesome-joliot-d12da0.netlify.app/)
+- [Movie App (React & Styled Components)](https://nifty-varahamihira-f9da4d.netlify.app/)
 
 # Componentes
-- [Auto Slider - 100% React & Styled Components](https://heuristic-euler-8925b9.netlify.app/) ✨
-- [Classic Review - 100% React & Styled Components](https://objective-jepsen-b78a14.netlify.app/) ✨
-- [Accordion - 100% React & Styled Components](https://hopeful-almeida-f7d2f0.netlify.app/) ✨
-- [Tabs - 100% React & Styled Components](https://nervous-fermat-8d8321.netlify.app/) ✨
+- [Auto Slider - 100% React & Styled Components](https://heuristic-euler-8925b9.netlify.app/)
+- [Classic Review - 100% React & Styled Components](https://objective-jepsen-b78a14.netlify.app/)
+- [Accordion - 100% React & Styled Components](https://hopeful-almeida-f7d2f0.netlify.app/)
+- [Tabs - 100% React & Styled Components](https://nervous-fermat-8d8321.netlify.app/)
 
 ## Minhas Redes Sociais
 
