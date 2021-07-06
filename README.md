@@ -14,6 +14,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 # Componentes
 - [Auto Slider - 100% React & Styled Components](https://heuristic-euler-8925b9.netlify.app/) ✨
 - [Classic Review - 100% React & Styled Components](https://objective-jepsen-b78a14.netlify.app/) ✨
+- [Accordion - 100% React & Styled Components](https://hopeful-almeida-f7d2f0.netlify.app/) ✨
 
 ## Minhas Redes Sociais
 
