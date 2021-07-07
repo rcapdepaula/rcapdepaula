@@ -16,6 +16,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 - [Classic Review - 100% React & Styled Components](https://objective-jepsen-b78a14.netlify.app/)
 - [Accordion - 100% React & Styled Components](https://hopeful-almeida-f7d2f0.netlify.app/)
 - [Tabs - 100% React & Styled Components](https://nervous-fermat-8d8321.netlify.app/)
+- [Filter by Category - 100% React & Styled Components](https://boring-kirch-2eafa2.netlify.app/)
 
 ## Minhas Redes Sociais
 
