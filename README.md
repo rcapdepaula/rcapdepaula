@@ -8,7 +8,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 
 # Projetos
 
-- [Super Cool Hero Slider - 100% React & Styled Components ](https://sharp-knuth-880b64.netlify.app/)
+- [Super Cool Hero Slider and awesome mobile menu - 100% React & Styled Components ](https://sharp-knuth-880b64.netlify.app/)
 - [Movie App - 100% React & Styled Components)](https://nifty-varahamihira-f9da4d.netlify.app/)
 
 # Componentes
