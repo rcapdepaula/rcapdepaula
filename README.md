@@ -17,7 +17,6 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 - [Accordion - 100% React & Styled Components](https://hopeful-almeida-f7d2f0.netlify.app/)
 - [Tabs - 100% React & Styled Components](https://nervous-fermat-8d8321.netlify.app/)
 - [Filter by Category - 100% React & Styled Components](https://boring-kirch-2eafa2.netlify.app/)
-- [Snackbar - 100% React & Styled Components](https://practical-ride-5bfc3b.netlify.app/)
 - [Very Simple Add to List - 100% React & Styled Components](https://compassionate-fermat-09e82f.netlify.app/)
 
 ## Protótipos
