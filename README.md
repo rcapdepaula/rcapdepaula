@@ -1,10 +1,11 @@
 ### Oi!  😄
 
-## Sou apaixonado pela mágica do React e os feitiços do Styled Components.
+## Sou apaixonado pela magia do React e os encantos do Styled Components.
 
 # Desenvolvedor Front End Junior.
 
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
+Dinossauro do Social Media e Mkt Digital. 
 
 # Projetos
 
