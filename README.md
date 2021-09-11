@@ -1,6 +1,6 @@
 ### Oi!  😄
 
-## Sou apaixonado pela magia do React e os encantos do Styled Components.
+## Sou apaixonado pela magia do React, os encantos do Next, o poder do Strapi e a praticidade do Styled Components.
 
 # Desenvolvedor JamStack.
 
