@@ -4,8 +4,7 @@
 
 # ![JamStack](https://i.ibb.co/ByN9zpr/jamstack.png) Desenvolvedor JamStack.
 
-Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
-Dinossauro do Social Media e Mkt Digital. 
+Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Isso me trouxe super habilidades em Marketing Digital e SEO.
 
 # Projetos
 - [Movie App - 100% React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
