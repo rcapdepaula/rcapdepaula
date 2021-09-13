@@ -15,7 +15,7 @@ Dinossauro do Social Media e Mkt Digital.
 - [Super Cool Hero Slider and awesome mobile menu - 100% React & Styled Components ](https://sharp-knuth-880b64.netlify.app/)
 - [Breaking Bad Quotes - 100% React & Styled Components ](https://confident-bardeen-c70218.netlify.app/)
 
-# Componentes
+# Newbie Componentes
 - [Auto Slider - 100% React & Styled Components](https://heuristic-euler-8925b9.netlify.app/)
 - [Classic Review - 100% React & Styled Components](https://objective-jepsen-b78a14.netlify.app/)
 - [Accordion - 100% React & Styled Components](https://hopeful-almeida-f7d2f0.netlify.app/)
