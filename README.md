@@ -11,7 +11,6 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Iss
 - [Site - Gatsby - Wordpress - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
 - [Nice Rick an Morty World - 100% React & Styled Components](https://amazing-sammet-737bb8.netlify.app/)
 - [X-Routes Movies - 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
-- [Super Cool Hero Slider and awesome mobile menu - 100% React & Styled Components ](https://sharp-knuth-880b64.netlify.app/)
 - [Breaking Bad Quotes - 100% React & Styled Components ](https://confident-bardeen-c70218.netlify.app/)
 
 # Newbie Componentes
