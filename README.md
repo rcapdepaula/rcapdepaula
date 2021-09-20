@@ -12,15 +12,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Iss
 - [X-Routes Movies - 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 - [Breaking Bad Quotes - 100% React & Styled Components ](https://confident-bardeen-c70218.netlify.app/)
 
-# Newbie Componentes
-- [Auto Slider - 100% React & Styled Components](https://heuristic-euler-8925b9.netlify.app/)
-- [Classic Review - 100% React & Styled Components](https://objective-jepsen-b78a14.netlify.app/)
-- [Accordion - 100% React & Styled Components](https://hopeful-almeida-f7d2f0.netlify.app/)
-- [Tabs - 100% React & Styled Components](https://nervous-fermat-8d8321.netlify.app/)
-- [Filter by Category - 100% React & Styled Components](https://boring-kirch-2eafa2.netlify.app/)
-- [Very Simple Add to List - 100% React & Styled Components](https://compassionate-fermat-09e82f.netlify.app/)
-
-## Protótipos
+### Protótipos
 - [No Lorem - 100% React & Styled Components](https://nifty-jennings-475471.netlify.app/)
 
 ## Minhas Redes Sociais
