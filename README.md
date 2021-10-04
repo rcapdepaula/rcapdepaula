@@ -2,7 +2,7 @@
 
 ## Sou apaixonado pela magia do React, os encantos do Next, o poder do Strapi e a praticidade do Styled Components.
 
-#  Desenvolvedor Front End Jr. / React.js / Next.js. / Styled Components / Strapi.
+#  ![frontend developer](https://i.ibb.co/wRcngSD/code-icon.png)Desenvolvedor Front End Jr. / React.js / Next.js. / Styled Components / Strapi.
 
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Isso me trouxe super habilidades em Marketing Digital e SEO.
 
