@@ -8,7 +8,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Iss
 
 # Projetos
 - [Movie App - 100% React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
-- [Site - Wordpress - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
+- [Awesome Slide - React & Styled Components](https://sharp-knuth-880b64.netlify.app/)
 - [X-Routes Movies - 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 
 ### Protótipos
