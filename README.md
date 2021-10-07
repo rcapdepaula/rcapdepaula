@@ -2,7 +2,7 @@
 
 ## Sou apaixonado pela magia do React, os encantos do Next, o poder do Strapi e a praticidade do Styled Components.
 
-#  ![frontend developer](https://i.ibb.co/wRcngSD/code-icon.png) Desenvolvedor Front End Jr. / React.js / Next.js. / Styled Components / Estudando o Svelte.
+# Desenvolvedor Front End Jr. / React.js / Next.js. / Styled Components / Estudando o Svelte.
 
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Isso me trouxe super habilidades em Marketing Digital e SEO.
 
