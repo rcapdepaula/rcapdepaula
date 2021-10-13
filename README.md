@@ -8,7 +8,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Iss
 
 # Projetos
 - [Movie App - Rest API, 100% React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
-- [Awesome Site - Gatsby - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
+- [Awesome Site -Graphql -Gatsby - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
 - [X-Routes Movies - Rest API, 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 
 ### Protótipos
