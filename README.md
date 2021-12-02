@@ -2,7 +2,7 @@
 
 ## Sou apaixonado pela magia do JavaScript e tudo que orbita ao seu redor.
 
-# Desenvolvedor Front End Jr.Svelte / SvelteKit / React.js / Next.js.
+# Desenvolvedor Front End Jr. Svelte / SvelteKit / React.js / Next.js.
 
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Isso me trouxe super habilidades em Marketing Digital e SEO.
 
