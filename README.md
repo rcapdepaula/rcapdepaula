@@ -4,7 +4,7 @@
 
 # Desenvolvedor Front End Jr. Svelte / SvelteKit / React.js / Next.js.
 
-Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009. Isso me trouxe super habilidades em Marketing Digital e SEO.
+Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 
 # Projetos
 - [NetViews.net - Blog Pessoal - Svelte - SvelteKit / Strapi (versão 0.1)](https://netviews.net/)
