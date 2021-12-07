@@ -9,7 +9,7 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 # Projetos
 - [NetViews.net - Blog Pessoal - Svelte - SvelteKit / Strapi (versão 0.1)](https://netviews.net/)
 - [Movie App - Rest API, 100% React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
-- [Breaking Bad Quotes - React & Styled Components ](https://zealous-benz-a0e30d.netlify.app/)
+- [Breaking Bad Quotes - React & Styled Components (se passar do limite da api vai ver uma página em branco) ](https://zealous-benz-a0e30d.netlify.app/)
 - [Awesome Site -Graphql -Gatsby - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
 - [X-Routes Movies - Rest API, 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 
