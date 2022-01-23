@@ -7,7 +7,7 @@
 Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 
 # Projetos
-- [House Marketplace - Svelte - SvelteKit / Firebase (versão 0.0.1), com bug na instância de url na Vercel (18/01/2022) -- será resovido em breve. Se aparecer algum erro basta apertar f5 e atualizar a página](https://svelte-house-marketplace.vercel.app/)
+- [House Marketplace - Svelte - SvelteKit / Firebase (beta), com bug -- será resovido em breve. Se aparecer algum erro basta apertar f5 e atualizar a página](https://svelte-house-marketplace.vercel.app/)
 - [NetViews.net - Blog Pessoal - Svelte - SvelteKit / Strapi (versão 1.0)](https://www.netviews.net/)
 - [Movie App - Rest API, 100% React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
 - [Breaking Bad Quotes - React & Styled Components (se passar do limite da api vai ver uma página em branco) ](https://zealous-benz-a0e30d.netlify.app/)
