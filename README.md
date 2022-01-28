@@ -1,10 +1,10 @@
 ### Oi!  😄
 
-## Sou apaixonado pela magia do JavaScript e tudo que orbita ao seu redor.
+## I am passionate about the magic of JavaScript and everything that orbits around it.
 
-# Desenvolvedor Front End Jr. Svelte / SvelteKit / React.js / Next.js.
+# Front End Developer. Svelte / SvelteKit / React.js / Next.js.
 
-Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
+A pioneer in driving and establishing brands in the digital environment since 2009.
 
 # Projetos
 - [House Marketplace - Svelte - SvelteKit / Firebase (beta), bug -- firebase -- press F5 to see the app](https://svelte-house-marketplace.vercel.app/)
@@ -14,10 +14,10 @@ Pioneiro em impulsionar e estabelecer marcas no ambiente digital desde 2009.
 - [Awesome Site -Graphql -Gatsby - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
 - [X-Routes Movies - Rest API, 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 
-### Protótipos
+### Prototypes
 - [No Lorem - Rest API, 100% React & Styled Components](https://nifty-jennings-475471.netlify.app/)
 
-## Minhas Redes Sociais
+## My Social Networks
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/redes_sociais)](https://twitter.com/redes_sociais) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardodepaula/)](https://www.linkedin.com/in/ricardodepaula/)
 
