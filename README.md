@@ -1,4 +1,4 @@
-### Oi!  😄
+### Hello!  😄
 
 ## I am passionate about the magic of JavaScript and everything that orbits around it.
 
