@@ -14,7 +14,7 @@ A pioneer in driving and establishing brands in the digital environment since 20
 - [Awesome Site -Graphql -Gatsby - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
 - [X-Routes Movies - Rest API, 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 
-### Prototypes
+### Hire Me!!
 - [Hire me!](https://www.fiverr.com/share/p0Y7wR)
 
 ## My Social Networks
