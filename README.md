@@ -7,7 +7,6 @@
 A pioneer in driving and establishing brands in the digital environment since 2009.
 
 # Projects
-- [House Marketplace - Svelte - SvelteKit / Firebase (beta), bug -- firebase -- press F5 to see the app](https://svelte-house-marketplace.vercel.app/)
 - [NetViews.net - Blog - Svelte - SvelteKit / Strapi (versão 1.0)](https://www.netviews.net/)
 - [Movie App - Rest API, 100% React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
 - [Breaking Bad Quotes - React & Styled Components (if you go over the api limit you will see a blank page) ](https://zealous-benz-a0e30d.netlify.app/)
