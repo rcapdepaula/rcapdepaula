@@ -1,6 +1,6 @@
 ### Hello!  😄
 
-## I am passionate about the magic of JavaScript and everything that orbits around it.
+## I help people using technology
 
 # Front End Developer. Svelte / SvelteKit / React.js / Next.js.
 
