@@ -1,6 +1,6 @@
 ### Hello!  😄
 
-# Building a Flexible Career in Front End Web Development.
+# I'm Building a Flexible Career in Front End Web Development.
 
 ## Svelte / SvelteKit / React.js / Next.js / REST API /
 
