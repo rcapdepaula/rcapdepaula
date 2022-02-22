@@ -1,8 +1,8 @@
 ### Hello!  😄
 
-## Building a Flexible Career in Front End Web Development.
+# Building a Flexible Career in Front End Web Development.
 
-# Front End Developer. Svelte / SvelteKit / React.js / Next.js.
+## Svelte / SvelteKit / React.js / Next.js / REST API / Supabase.
 
 A pioneer in driving and establishing brands in the digital environment since 2009.
 
