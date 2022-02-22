@@ -1,6 +1,6 @@
 ### Hello!  😄
 
-## I help people using technology
+## Building a Flexible Career in Front End Web Development.
 
 # Front End Developer. Svelte / SvelteKit / React.js / Next.js.
 
