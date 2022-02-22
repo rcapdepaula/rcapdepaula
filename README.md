@@ -15,7 +15,7 @@ A pioneer in driving and establishing brands in the digital environment since 20
 - [X-Routes Movies - Rest API, 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 
 ### Hire Me!!
-- [Hire me!](https://www.linkedin.com/in/ricardodepaula/)
+- [Hire me Now!](https://www.linkedin.com/in/ricardodepaula/)
 
 ## My Social Networks
 
