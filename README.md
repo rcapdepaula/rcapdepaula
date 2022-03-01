@@ -9,10 +9,10 @@ A pioneer in driving and establishing brands in the digital environment since 20
 # Projects
 - [House MarketPlace - Svelte - SvelteKit / Firebase](https://house-nine.vercel.app/)
 - [Prototype Blog For My Personal blog - Svelte - SvelteKit / Strapi](https://www.netviews.net/)
-- [Movie App - Rest API, 100% React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
+- [Movie App - Rest API - React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
 - [Breaking Bad Quotes - React & Styled Components (if you go over the api limit you will see a blank page) ](https://zealous-benz-a0e30d.netlify.app/)
 - [Awesome Site -Graphql -Gatsby - Wordpress as a Headless CMS - React & Styled Components](https://awesome-joliot-d12da0.netlify.app/)
-- [X-Routes Movies - Rest API, 100% React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
+- [X-Routes Movies - Rest API - React & Styled Components](https://infallible-brattain-0cb0e7.netlify.app/)
 
 ### Hire Me!!
 - [Hire me Now!](https://www.linkedin.com/in/ricardodepaula/)
