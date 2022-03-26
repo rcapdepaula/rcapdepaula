@@ -9,7 +9,7 @@ A pioneer in driving and establishing brands in the digital environment since 20
 # Projects
 
 - [House MarketPlace - Svelte - SvelteKit / Firebase](https://house-nine.vercel.app/)
-- Rick And Morty- React](https://amazing-sammet-737bb8.netlify.app/)
+- [Rick And Morty- React](https://amazing-sammet-737bb8.netlify.app/)
 - [Prototype Blog For My Personal blog - Svelte - SvelteKit / Strapi](https://www.netviews.net/)
 - [Movie App - Rest API - React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
 - [Breaking Bad Quotes - React & Styled Components (if you go over the api limit you will see a blank page) ](https://zealous-benz-a0e30d.netlify.app/)
