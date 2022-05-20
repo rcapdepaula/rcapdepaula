@@ -8,7 +8,7 @@ A pioneer in driving and establishing brands in the digital environment since 20
 
 # Projects
 
-- [House MarketPlace - (not finished) Svelte - SvelteKit / Firebase](https://beach-real-estate.vercel.app/)
+- [House MarketPlace - (not finished) Svelte - SvelteKit / Firebase](https://beach-real-estate-master.vercel.app/)
 - [Prototype Blog For My Personal blog - Svelte - SvelteKit / Strapi](https://www.netviews.net/)
 - [Movie App - Rest API - React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
 - [Breaking Bad Quotes - React & Styled Components (if you go over the api limit you will see a blank page) ](https://zealous-benz-a0e30d.netlify.app/)
