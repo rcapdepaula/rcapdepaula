@@ -2,7 +2,7 @@
 
 # I'm Building a Flexible Career in Front End Web Development.
 
-## Svelte / SvelteKit / React.js / Next.js / REST API /
+## Vue 3 / Nuxt 3/  React / Next / Svelte / SvelteKit / REST API / Firebase 9
 
 A pioneer in driving and establishing brands in the digital environment since 2009.
 
