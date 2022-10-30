@@ -7,6 +7,7 @@
 A pioneer in driving and establishing brands in the digital environment since 2009.
 
 # Projects
+- [Theme Comparator for Pluggo - (not finished) Vue 3 - Nuxt 3 / Firebase 9](https://theme-comparator.vercel.app/)
 - [BotImoveis - (beta) Svelte - SvelteKit / Firebase 9](https://www.botimoveis.com/)
 - [House MarketPlace - (not finished) Svelte - SvelteKit / Firebase 9  (video)](https://youtu.be/MNXO72L0zLs) >>> [link for the web app](https://dream-houses.vercel.app/)
 - [Movie App - Rest API - React & Styled Components](https://nifty-varahamihira-f9da4d.netlify.app/)
