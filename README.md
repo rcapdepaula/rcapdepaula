@@ -7,6 +7,7 @@
 A pioneer in driving and establishing brands in the digital environment since 2009.
 
 # Projects
+- [Super Fast Website for SG-PLUS (in progress) - Vue 3 - Nuxt 3 / Tailwindcss ](https://novo.sg-plus.com.br/)
 - [BotAnúncios - (in progress) Vue 3 - Nuxt 3 / Firebase 9 / Tailwindcss](https://bot-anuncios.vercel.app/)
 - [Theme Comparator for Pluggo - (in progress) Vue 3 - Nuxt 3 / Firebase 9 / Tailwindcss](https://dainty-kringle-60c4b4.netlify.app/)
 - [BotImoveis - (in progress) - (protótipo) Svelte - SvelteKit / Firebase 9](https://www.botimoveis.com/)
