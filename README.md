@@ -9,7 +9,7 @@ A pioneer in driving and establishing brands in the digital environment since 20
 # Projects
 - [Theme Comparator for Pluggo - (in progress) Vue 3 - Nuxt 3 / Firebase 9 / Tailwindcss](https://dainty-kringle-60c4b4.netlify.app/)
 - [BotAnúncios - (in progress) Vue 3 - Nuxt 3 / Firebase 9 / Tailwindcss](https://bot-anuncios.vercel.app/)
-- [Front End in Vue 3 / Nuxt 3 for Crypto Wallet Delivered for Database Integration - Vue 3 - Nuxt 3 / Tailwindcss ](https://youtu.be/-Tyf7x4X1vs)
+- [Front End for Crypto Wallet, Delivered for Database Integration - Vue 3 - Nuxt 3 / Tailwindcss ](https://youtu.be/-Tyf7x4X1vs)
 - [Super Fast Website for SG-PLUS (in progress) - Vue 3 - Nuxt 3 / Tailwindcss ](https://novo.sg-plus.com.br/)
 - [BotImoveis - (in progress) - (protótipo) Svelte - SvelteKit / Firebase 9](https://www.botimoveis.com/)
 - [House MarketPlace - (beta version) Svelte - SvelteKit / Firebase 9  (video)](https://youtu.be/MNXO72L0zLs) >>> [link for the web app](https://dream-houses.vercel.app/)
