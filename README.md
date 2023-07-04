@@ -7,6 +7,8 @@
 A pioneer in driving and establishing brands in the digital environment since 2009.
 
 # Projects
+- [Site Strm v1 - Vue 3 - Nuxt 3 / Tailwindcss ](https://www.vsenem.com.br/)
+- [Landing Page VsEnem- Astro Framework / Tailwindcss ](https://www.vsenem.com.br/)
 - [Front End for Crypto Wallet with Currency and Pix API Integration- Vue 3 - Nuxt 3 / Tailwindcss ](https://youtu.be/P7cqQ5RWoeI)
 - [Theme Comparator for Pluggo - (in progress) Vue 3 - Nuxt 3 / Firebase 9 / Tailwindcss](https://dainty-kringle-60c4b4.netlify.app/)
 - [BotAnúncios - (in progress) Vue 3 - Nuxt 3 / Firebase 9 / Tailwindcss](https://bot-anuncios.vercel.app/)
