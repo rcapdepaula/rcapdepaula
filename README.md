@@ -7,6 +7,7 @@
 A pioneer in driving and establishing brands in the digital environment since 2009.
 
 # Projects
+- [Fugini - Portal da transparência - (em andamento) Vue 3 - Nuxt 3 / Tailwindcss / Firebase 10 ](https://fugini-landing.vercel.app/)
 - [Site Strm v1 - Vue 3 - Nuxt 3 / Tailwindcss ](https://www.strmmusic.ai/)
 - [Landing Page VsEnem- Astro Framework / Tailwindcss ](https://www.vsenem.com.br/)
 - [Front End for Crypto Wallet with Currency and Pix API Integration- Vue 3 - Nuxt 3 / Tailwindcss ](https://youtu.be/P7cqQ5RWoeI)
