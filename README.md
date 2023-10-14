@@ -9,7 +9,7 @@ A pioneer in driving and establishing brands in the digital environment since 20
 # Projects
 - [Fugini - Portal da transparência - (em andamento) Vue 3 - Nuxt 3 / Tailwindcss / Firebase 10 ](https://pordentrodafugini.com.br/)
 - [Site Strm v1 - Vue 3 - Nuxt 3 / Tailwindcss ](https://www.strmmusic.ai/)
-- [Landing Page VsEnem- Astro Framework / Tailwindcss ](https://vsenemrcp.vercel.app/)
+- [Landing Page VsEnem- Nuxt Framework / Tailwindcss ](https://vsenemrcp.vercel.app/)
 - [Front End for Crypto Wallet with Currency and Pix API Integration- Vue 3 - Nuxt 3 / Tailwindcss ](https://youtu.be/P7cqQ5RWoeI)
 - [Theme Comparator for Pluggo - (in progress) Vue 3 - Nuxt 3 / Firebase 9 / Tailwindcss](https://dainty-kringle-60c4b4.netlify.app/)
 - [Super Fast Website for SG-PLUS (in progress) - Vue 3 - Nuxt 3 / Tailwindcss ](https://novo.sg-plus.com.br/)
