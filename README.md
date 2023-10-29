@@ -1,4 +1,4 @@
-### Hello!  😄  ## I'm Ricardo de Paula.
+### Hello!  😄  I'm Ricardo de Paula.
 
 # Front End Web Developer.
 
